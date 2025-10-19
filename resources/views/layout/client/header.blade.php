@@ -33,8 +33,8 @@
                             <div class="header-info-items">
                                 <div class="info-items">
                                     <ul>
-                                        <li class="number"><i class="fa fa-phone"></i><a href="tel://0123456789">0362411201</a></li>
-                                        <li class="email"><i class="fa fa-envelope"></i><a href="mailto://demo@example.com">vanbaph31911@fpt.edu.vn</a></li>
+                                        <li class="number"><i class="fa fa-phone"></i><a href="tel://0123456789">0336322753</a></li>
+                                        <li class="email"><i class="fa fa-envelope"></i><a href="mailto://demo@example.com">23010275@phenikaa</a></li>
                                         @if(Auth::check())
                                             @if(Auth::user()->role == '0')
                                                 <li class="account has-submenu"><i class="fa fa-user"></i><a href="#">{{ Auth::user()->name }}</a>
